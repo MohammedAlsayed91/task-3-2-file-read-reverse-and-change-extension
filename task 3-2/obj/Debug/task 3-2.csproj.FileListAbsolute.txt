@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\task 3-2\task 3-2\bin\Debug\task 3-2.exe.config
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\task 3-2\task 3-2\bin\Debug\task 3-2.exe
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\task 3-2\task 3-2\bin\Debug\task 3-2.pdb
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\task 3-2\task 3-2\obj\Debug\task 3-2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\task 3-2\task 3-2\obj\Debug\task 3-2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\task 3-2\task 3-2\obj\Debug\task 3-2.exe
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\task 3-2\task 3-2\obj\Debug\task 3-2.pdb
